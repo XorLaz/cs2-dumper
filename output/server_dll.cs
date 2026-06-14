@@ -1,9 +1,9 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-05-23 11:36:15.516019600 UTC
+// 2026-06-14 13:37:49.582740100 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: server.dll
-    // Class count: 944
+    // Class count: 958
     // Enum count: 179
     public static class ServerDll {
         // Alignment: 4
@@ -12208,6 +12208,62 @@ namespace CS2Dumper.Schemas {
         public static class Relationship_t {
             public const nint disposition = 0x0; // Disposition_t
             public const nint priority = 0x4; // int32
+        }
+        // Parent: None
+        // Field count: 0
+        public static class SPRITECARD_TEXTURE_PP_SCALE_NONE {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class _ {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class PF_BIAS_TYPE_STANDARD {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class PF_NOISE_TURB_NONE {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class _ {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class PF_NOISE_MODIFIER_NONE {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class PF_TYPE_LITERAL {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class _ {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class PF_BIAS_TYPE_STANDARD {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class PF_NOISE_MODIFIER_NONE {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class PF_TYPE_LITERAL {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class _ {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class PF_BIAS_TYPE_STANDARD {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class PF_NOISE_TURB_NONE {
         }
     }
 }

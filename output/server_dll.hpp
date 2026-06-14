@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-05-23 11:36:15.516019600 UTC
+// 2026-06-14 13:37:49.582740100 UTC
 
 #pragma once
 
@@ -9,7 +9,7 @@
 namespace cs2_dumper {
     namespace schemas {
         // Module: server.dll
-        // Class count: 944
+        // Class count: 958
         // Enum count: 179
         namespace server_dll {
             // Alignment: 4
@@ -12214,6 +12214,62 @@ namespace cs2_dumper {
             namespace Relationship_t {
                 constexpr std::ptrdiff_t disposition = 0x0; // Disposition_t
                 constexpr std::ptrdiff_t priority = 0x4; // int32
+            }
+            // Parent: None
+            // Field count: 0
+            namespace SPRITECARD_TEXTURE_PP_SCALE_NONE {
+            }
+            // Parent: None
+            // Field count: 0
+            namespace _ {
+            }
+            // Parent: None
+            // Field count: 0
+            namespace PF_BIAS_TYPE_STANDARD {
+            }
+            // Parent: None
+            // Field count: 0
+            namespace PF_NOISE_TURB_NONE {
+            }
+            // Parent: None
+            // Field count: 0
+            namespace _ {
+            }
+            // Parent: None
+            // Field count: 0
+            namespace PF_NOISE_MODIFIER_NONE {
+            }
+            // Parent: None
+            // Field count: 0
+            namespace PF_TYPE_LITERAL {
+            }
+            // Parent: None
+            // Field count: 0
+            namespace _ {
+            }
+            // Parent: None
+            // Field count: 0
+            namespace PF_BIAS_TYPE_STANDARD {
+            }
+            // Parent: None
+            // Field count: 0
+            namespace PF_NOISE_MODIFIER_NONE {
+            }
+            // Parent: None
+            // Field count: 0
+            namespace PF_TYPE_LITERAL {
+            }
+            // Parent: None
+            // Field count: 0
+            namespace _ {
+            }
+            // Parent: None
+            // Field count: 0
+            namespace PF_BIAS_TYPE_STANDARD {
+            }
+            // Parent: None
+            // Field count: 0
+            namespace PF_NOISE_TURB_NONE {
             }
         }
     }

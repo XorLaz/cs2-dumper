@@ -1,12 +1,12 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-05-23 11:36:15.516019600 UTC
+// 2026-06-14 13:37:49.582740100 UTC
 
 #![allow(non_upper_case_globals, non_camel_case_types, non_snake_case, unused)]
 
 pub mod cs2_dumper {
     pub mod schemas {
         // Module: server.dll
-        // Class count: 944
+        // Class count: 958
         // Enum count: 179
         pub mod server_dll {
             // Alignment: 4
@@ -12354,6 +12354,62 @@ pub mod cs2_dumper {
             pub mod Relationship_t {
                 pub const disposition: usize = 0x0; // Disposition_t
                 pub const priority: usize = 0x4; // int32
+            }
+            // Parent: None
+            // Field count: 0
+            pub mod SPRITECARD_TEXTURE_PP_SCALE_NONE {
+            }
+            // Parent: None
+            // Field count: 0
+            pub mod _ {
+            }
+            // Parent: None
+            // Field count: 0
+            pub mod PF_BIAS_TYPE_STANDARD {
+            }
+            // Parent: None
+            // Field count: 0
+            pub mod PF_NOISE_TURB_NONE {
+            }
+            // Parent: None
+            // Field count: 0
+            pub mod _ {
+            }
+            // Parent: None
+            // Field count: 0
+            pub mod PF_NOISE_MODIFIER_NONE {
+            }
+            // Parent: None
+            // Field count: 0
+            pub mod PF_TYPE_LITERAL {
+            }
+            // Parent: None
+            // Field count: 0
+            pub mod _ {
+            }
+            // Parent: None
+            // Field count: 0
+            pub mod PF_BIAS_TYPE_STANDARD {
+            }
+            // Parent: None
+            // Field count: 0
+            pub mod PF_NOISE_MODIFIER_NONE {
+            }
+            // Parent: None
+            // Field count: 0
+            pub mod PF_TYPE_LITERAL {
+            }
+            // Parent: None
+            // Field count: 0
+            pub mod _ {
+            }
+            // Parent: None
+            // Field count: 0
+            pub mod PF_BIAS_TYPE_STANDARD {
+            }
+            // Parent: None
+            // Field count: 0
+            pub mod PF_NOISE_TURB_NONE {
             }
         }
     }

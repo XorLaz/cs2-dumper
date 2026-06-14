@@ -1,9 +1,9 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-05-23 11:36:15.516019600 UTC
+// 2026-06-14 13:37:49.582740100 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: client.dll
-    // Class count: 535
+    // Class count: 589
     // Enum count: 12
     public static class ClientDll {
         // Alignment: 4
@@ -5807,6 +5807,318 @@ namespace CS2Dumper.Schemas {
             public const nint m_PreGenerationKVs = 0x18; // KeyValues3
             public const nint m_FinalKVs = 0x58; // KeyValues3
             public const nint m_vecGeneratedTextures = 0x80; // CUtlVector<GeneratedTextureHandle_t>
+        }
+        // Parent: None
+        // Field count: 0
+        public static class tR {
+        }
+        // Parent: None
+        // Field count: 12
+        public static class tR {
+            public const nint  = 0x10000; // 
+            public const nint  = 0x0; // 
+            public const nint  = 0x0; // 
+            public const nint  = 0x0; // 
+            public const nint  = 0x80010C80; // 
+            public const nint  = 0x80010080; // 
+            public const nint  = 0x0; // 
+            public const nint  = 0x80020000; // 
+            public const nint  = 0x80030100; // 
+            public const nint  = 0x800300C0; // 
+            public const nint  = 0x800400E0; // 
+            public const nint  = 0x80040070; // 
+        }
+        // Parent: None
+        // Field count: 12
+        public static class tR {
+            public const nint  = 0x10000; // 
+            public const nint  = 0x0; // 
+            public const nint  = 0x0; // 
+            public const nint  = 0x0; // 
+            public const nint  = 0x80010C80; // 
+            public const nint  = 0x80010080; // 
+            public const nint  = 0x0; // 
+            public const nint  = 0x80020000; // 
+            public const nint  = 0x80030100; // 
+            public const nint  = 0x800300C0; // 
+            public const nint  = 0x800400E0; // 
+            public const nint  = 0x80040070; // 
+        }
+        // Parent: None
+        // Field count: 12
+        public static class tR {
+            public const nint  = 0x10000; // 
+            public const nint  = 0x0; // 
+            public const nint  = 0x0; // 
+            public const nint  = 0x0; // 
+            public const nint  = 0x80010C80; // 
+            public const nint  = 0x80010080; // 
+            public const nint  = 0x0; // 
+            public const nint  = 0x80020000; // 
+            public const nint  = 0x80030100; // 
+            public const nint  = 0x800300C0; // 
+            public const nint  = 0x800400E0; // 
+            public const nint  = 0x80040070; // 
+        }
+        // Parent: None
+        // Field count: 0
+        public static class tR {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class tR {
+        }
+        // Parent: None
+        // Field count: 12
+        public static class tR {
+            public const nint  = 0x10000; // 
+            public const nint  = 0x0; // 
+            public const nint  = 0x0; // 
+            public const nint  = 0x0; // 
+            public const nint  = 0x80010C80; // 
+            public const nint  = 0x80010080; // 
+            public const nint  = 0x0; // 
+            public const nint  = 0x80020000; // 
+            public const nint  = 0x80030100; // 
+            public const nint  = 0x800300C0; // 
+            public const nint  = 0x800400E0; // 
+            public const nint  = 0x80040070; // 
+        }
+        // Parent: None
+        // Field count: 0
+        public static class tR {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class tR {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class tR {
+        }
+        // Parent: None
+        // Field count: 12
+        public static class tR {
+            public const nint  = 0x10000; // 
+            public const nint  = 0x0; // 
+            public const nint  = 0x0; // 
+            public const nint  = 0x0; // 
+            public const nint  = 0x80010C80; // 
+            public const nint  = 0x80010080; // 
+            public const nint  = 0x0; // 
+            public const nint  = 0x80020000; // 
+            public const nint  = 0x80030100; // 
+            public const nint  = 0x800300C0; // 
+            public const nint  = 0x800400E0; // 
+            public const nint  = 0x80040070; // 
+        }
+        // Parent: None
+        // Field count: 12
+        public static class tR {
+            public const nint  = 0x10000; // 
+            public const nint  = 0x0; // 
+            public const nint  = 0x0; // 
+            public const nint  = 0x0; // 
+            public const nint  = 0x80010C80; // 
+            public const nint  = 0x80010080; // 
+            public const nint  = 0x0; // 
+            public const nint  = 0x80020000; // 
+            public const nint  = 0x80030100; // 
+            public const nint  = 0x800300C0; // 
+            public const nint  = 0x800400E0; // 
+            public const nint  = 0x80040070; // 
+        }
+        // Parent: None
+        // Field count: 0
+        public static class tR {
+        }
+        // Parent: None
+        // Field count: 12
+        public static class tR {
+            public const nint  = 0x10000; // 
+            public const nint  = 0x0; // 
+            public const nint  = 0x0; // 
+            public const nint  = 0x0; // 
+            public const nint  = 0x80010C80; // 
+            public const nint  = 0x80010080; // 
+            public const nint  = 0x0; // 
+            public const nint  = 0x80020000; // 
+            public const nint  = 0x80030100; // 
+            public const nint  = 0x800300C0; // 
+            public const nint  = 0x800400E0; // 
+            public const nint  = 0x80040070; // 
+        }
+        // Parent: None
+        // Field count: 0
+        public static class tR {
+        }
+        // Parent: None
+        // Field count: 12
+        public static class tR {
+            public const nint  = 0x10000; // 
+            public const nint  = 0x0; // 
+            public const nint  = 0x0; // 
+            public const nint  = 0x0; // 
+            public const nint  = 0x80010C80; // 
+            public const nint  = 0x80010080; // 
+            public const nint  = 0x0; // 
+            public const nint  = 0x80020000; // 
+            public const nint  = 0x80030100; // 
+            public const nint  = 0x800300C0; // 
+            public const nint  = 0x800400E0; // 
+            public const nint  = 0x80040070; // 
+        }
+        // Parent: None
+        // Field count: 0
+        public static class PF_NOISE_MODIFIER_NONE {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class PF_TYPE_LITERAL {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class _ {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class PF_BIAS_TYPE_STANDARD {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class PF_NOISE_TURB_NONE {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class _ {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class PF_ROUND_TYPE_NEAREST {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class PF_RANDOM_MODE_CONSTANT {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class PF_MAP_TYPE_DIRECT {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class PF_INPUT_MODE_CLAMPED {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class PF_NOISE_TYPE_PERLIN {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class _ {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class _ {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class _ {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class PF_ROUND_TYPE_NEAREST {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class PF_RANDOM_MODE_CONSTANT {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class PF_MAP_TYPE_DIRECT {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class PF_INPUT_MODE_CLAMPED {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class PF_NOISE_TYPE_PERLIN {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class _ {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class _ {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class PF_ROUND_TYPE_NEAREST {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class PF_RANDOM_MODE_CONSTANT {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class PF_MAP_TYPE_DIRECT {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class PF_RANDOM_MODE_CONSTANT {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class PF_MAP_TYPE_DIRECT {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class PF_INPUT_MODE_CLAMPED {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class PF_NOISE_TYPE_PERLIN {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class _ {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class _ {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class PF_ROUND_TYPE_NEAREST {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class PF_NOISE_MODIFIER_NONE {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class PF_TYPE_LITERAL {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class _ {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class PF_BIAS_TYPE_STANDARD {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class PF_NOISE_TURB_NONE {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class _ {
+        }
+        // Parent: None
+        // Field count: 0
+        public static class _P__b_ {
         }
     }
 }
