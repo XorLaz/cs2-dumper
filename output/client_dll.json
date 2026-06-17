@@ -6551,51 +6551,6 @@
         ],
         "parent": null
       },
-      "PF_BIAS_TYPE_STANDARD": {
-        "fields": {},
-        "metadata": [],
-        "parent": null
-      },
-      "PF_INPUT_MODE_CLAMPED": {
-        "fields": {},
-        "metadata": [],
-        "parent": null
-      },
-      "PF_MAP_TYPE_DIRECT": {
-        "fields": {},
-        "metadata": [],
-        "parent": null
-      },
-      "PF_NOISE_MODIFIER_NONE": {
-        "fields": {},
-        "metadata": [],
-        "parent": null
-      },
-      "PF_NOISE_TURB_NONE": {
-        "fields": {},
-        "metadata": [],
-        "parent": null
-      },
-      "PF_NOISE_TYPE_PERLIN": {
-        "fields": {},
-        "metadata": [],
-        "parent": null
-      },
-      "PF_RANDOM_MODE_CONSTANT": {
-        "fields": {},
-        "metadata": [],
-        "parent": null
-      },
-      "PF_ROUND_TYPE_NEAREST": {
-        "fields": {},
-        "metadata": [],
-        "parent": null
-      },
-      "PF_TYPE_LITERAL": {
-        "fields": {},
-        "metadata": [],
-        "parent": null
-      },
       "PhysicsRagdollPose_t": {
         "fields": {
           "m_Transforms": 8,
@@ -6744,16 +6699,6 @@
         "fields": {
           "m_weaponPurchases": 8
         },
-        "metadata": [],
-        "parent": null
-      },
-      "_": {
-        "fields": {},
-        "metadata": [],
-        "parent": null
-      },
-      "_P__b_": {
-        "fields": {},
         "metadata": [],
         "parent": null
       },
@@ -6981,13 +6926,6 @@
           "m_nWorldGroupID": 136,
           "origin": 12,
           "scale": 8
-        },
-        "metadata": [],
-        "parent": null
-      },
-      "tR": {
-        "fields": {
-          "": -2147221392
         },
         "metadata": [],
         "parent": null
